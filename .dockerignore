@@ -1,0 +1,25 @@
+# .dockerignore
+
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+.pytest_cache
+.env
+Dockerfile
+Dockerfile.*
+compose.yaml
+proxy.yaml
+haproxy/
+nginx/
+README.md
+LICENSE
+schema.pdf
+*.log
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
